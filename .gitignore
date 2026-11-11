@@ -1,0 +1,4 @@
+# Backups and editor leftovers
+*.bak-*
+*~
+.DS_Store
