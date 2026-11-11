@@ -134,7 +134,8 @@ Contrast against the background `#1D1B18`:
 - **Inactive panes not faded:** faded text looked blurry.
 - **Slim padding (6px / 10px):** keeps text off the edges without wasting space on a
   1280px-wide screen.
-- **Steady beam cursor, silent bell:** nothing pulls the eye off the text.
+- **Steady block cursor, silent bell:** nothing pulls the eye off the text. The block
+  stays at the shell prompt too (`shell_integration enabled no-cursor`).
 
 ## Optional: full-width prompt separator
 
